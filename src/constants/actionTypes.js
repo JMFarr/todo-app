@@ -1,0 +1,5 @@
+export const ADD_TODO = "TODO_APP::ADD_TODO";
+export const ADD_TODO_ERROR = "TODO_APP::ADD_TODO_ERROR";
+export const DELETE_TODO = "TODO_APP::DELETE_TODO";
+export const TOGGLE_TODO = "TODO_APP::TOGGLE_TODO";
+export const SET_VIEW_MODE = "TODO_APP::SET_VIEW_MODE";
